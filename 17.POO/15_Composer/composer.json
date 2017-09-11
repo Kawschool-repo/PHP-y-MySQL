@@ -1,0 +1,18 @@
+{
+    "name": "kawschool-server/tienda-online",
+    "description": "creando una tienda online con php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hugo",
+            "email": "trigosoparedes@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kawschool\\":"src/"
+        }
+    }
+}
