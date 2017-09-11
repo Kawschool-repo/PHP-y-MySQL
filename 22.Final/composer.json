@@ -1,0 +1,21 @@
+{
+    "name": "kawschool-server/TiendaOnline",
+    "description": "Creando una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hugo trigoso",
+            "email": "trigosoparedes@gmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Kawschool\\":"src/"
+        }
+    }
+    
+}

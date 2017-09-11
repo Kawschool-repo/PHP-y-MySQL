@@ -1,0 +1,21 @@
+#main{
+        margin-top: 100px;
+}
+
+.u-size-100{
+	width: 100px;
+}
+
+.main-form{
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+.panel-info>.panel-heading{
+	color: #ffffff;
+    background-color: #e95420;
+}
+.main-login{
+	max-width: 300px;
+	margin: 0 auto;
+}
